@@ -1,0 +1,1 @@
+This project implements a machine learning model to predict the likelihood of diabetes in patients based on various health metrics. The model is trained on a dataset containing attributes related to diabetes, such as glucose levels, blood pressure, and BMI, to make accurate predictions.
